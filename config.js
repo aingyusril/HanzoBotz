@@ -11,9 +11,9 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = ['HanzoBotz']
-global.namaowner = ['Lord Kaze']
-global.owner = ['6282217590187']
+global.namabot = ['YuzzBotz']
+global.namaowner = ['Lord Yuzz']
+global.owner = ['6285755928297']
 global.premium = ['6282217590187']
 global.Log = '\n『々Lord』KAZE☆☆☆'//console log gerak nya:v
 global.packname = '© Powered By'
